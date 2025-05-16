@@ -1,12 +1,10 @@
 # YouTube Clone Frontend
 
 <div align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Badge"/>
-  <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF" alt="Redux Badge"/>
-  <img src="https://img.shields.io/badge/React_Router-CA1F7B?style=for-the-badge&logo=react-router&logoColor=FFFFFF" alt="React Router Badge"/>
-  <img src="https://img.shields.io/badge/Material_UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=FFFFFF" alt="Material UI Badge"/>
+  <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png)" alt="HTML5 Badge"/>
+  <img src="[https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png)" alt="CSS Badge"/>
   <br/>
-  <p>A feature-rich YouTube clone built with React.</p>
+  <p>A feature-rich YouTube clone built with HTML & CSS.</p>
 </div>
 
 ## Features
@@ -63,6 +61,11 @@
     ```
     http://localhost:3000
     ```
+
+    
+## Browser Window
+<img src="C:\Users\user\Pictures\brave-screenshot.png">
+
 
 ## Configuration
 
