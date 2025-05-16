@@ -62,7 +62,7 @@
 
     
 ## Browser Window
-<img src="./Browser-window/Browser_window.png">
+<img src="./Browser-window/Animation.gif">
 
 
 ## Configuration
