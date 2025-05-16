@@ -1,8 +1,8 @@
 # YouTube Clone Frontend
 
 <div align="center">
-  <img src="[https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB](https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/250px-HTML5_logo_and_wordmark.svg.png)" alt="HTML5 Badge"/>
-  <img src="[https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png)" alt="CSS Badge"/>
+  <img src="https://en.wikipedia.org/wiki/HTML#/media/File:HTML5_logo_and_wordmark.svg" alt="HTML5 Badge"/>
+  <img src="[[https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=FFFFFF](https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Official_CSS_Logo.svg/250px-Official_CSS_Logo.svg.png)](https://en.wikipedia.org/wiki/CSS#/media/File:Official_CSS_Logo.svg)" alt="CSS Badge"/>
   <br/>
   <p>A feature-rich YouTube clone built with HTML & CSS.</p>
 </div>
@@ -64,7 +64,7 @@
 
     
 ## Browser Window
-<img src="C:\Users\user\Pictures\brave-screenshot.png">
+<img src="brave_screenshot.png">
 
 
 ## Configuration
